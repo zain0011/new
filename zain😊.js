@@ -70,8 +70,6 @@ $(_0xd168[1])[_0xd168[0]](), $(_0xd168[14])[_0xd168[13]](_0xd168[2], function() 
 }
 $(`<style>
 
-<style>
-
 div#tlogins a.label.label-primary.fl {
     display: none;
 }
